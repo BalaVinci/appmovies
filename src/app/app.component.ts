@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
 
   }
   
-  title = 'Custom';
+  title = 'Upcomming movies';
 movies =[{
   name:'Spider Man',
   releaseDate:new Date()
